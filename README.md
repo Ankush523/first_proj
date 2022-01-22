@@ -1,6 +1,6 @@
 # first_project
 
-A new Flutter project by Ankush Dutta
+A new Flutter project by Ankush523
 
 ## Getting Started
 
