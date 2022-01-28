@@ -16,7 +16,9 @@ class MyAppState extends State<MyApp> {
   var questionIndex = 0;
 
   void answerQuestion() {
-    questionIndex += 1;
+    setState(() {
+      questionIndex += 1;
+    });
   }
 
   Widget build(BuildContext con) {
